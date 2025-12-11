@@ -94,7 +94,7 @@ To create an **interactive data visualization tool** that enables:
 
 * Distribution between **Luxury, Performance, and Standard** categories helps segment the automotive landscape.
 
----
+--
 
 ### **Business Impact & Insights**
 
