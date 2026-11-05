@@ -107,4 +107,4 @@ To create an **interactive data visualization tool** that enables:
 
 ## 6. Screenshot / Demo
 
-![image alt](https://github.com/MohanS-2009/Car-Data-Analysis-Dashboard/blob/main/Car%20Data%20Analysis.jpg)
+![image alt](https://github.com/MohanS-2009/Car-Data-Analysis-Dashboard/blob/main/Car%20Data%20Analysis.jpg) 
